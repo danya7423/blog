@@ -1,4 +1,5 @@
 # A ready-to-use Markdown-based article system
+![image](https://user-images.githubusercontent.com/84060706/218299639-69cdc181-62fe-434e-a7d2-e358a78b9d97.png)
 
 ## Get started
 - Run ```npm i``` to install modules
