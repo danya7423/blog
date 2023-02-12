@@ -19,3 +19,9 @@ In the file <name>.config.json you should put the following text:
 }
 ```
 Replace <page name> with the name that will appear in the browser tab name.
+
+## Roadmap
+
+- [ ] SEO
+- [ ] A page for creating articles directly from browser
+- [ ] Main page with content and auto-update
